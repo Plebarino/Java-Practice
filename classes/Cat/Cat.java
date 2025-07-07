@@ -1,13 +1,14 @@
 package Cat;
 public class Cat
 {
-    public static void whiskersMeow()
+    public void meow()
     {
         System.out.println("meow!");
     }
 
     public static void main(String[] args)
     {
-        whiskersMeow();
+        Cat whiskers = new Cat();
+        whiskers.meow();
     }
 }
