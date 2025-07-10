@@ -1,4 +1,4 @@
-package Dino;
+package Dinos;
 
 public class Dino
 {

@@ -1,4 +1,4 @@
-package Car;
+package Vehicles;
 public class Car
 {
     public static void chevroletCamaro()

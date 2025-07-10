@@ -1,4 +1,4 @@
-package Printer;
+package Printers;
 public class Printer
 {
     public static void printerOne()

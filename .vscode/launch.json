@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SongLyrics",
+            "request": "launch",
+            "mainClass": "PFII.SongLyrics",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Cat",
+            "request": "launch",
+            "mainClass": "Animals.Cat",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "Computer",
+            "request": "launch",
+            "mainClass": "Computers.Computer",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "Dino",
+            "request": "launch",
+            "mainClass": "Dinos.Dino",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "HelloNolan",
+            "request": "launch",
+            "mainClass": "HelloWorld.HelloNolan",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "Player",
+            "request": "launch",
+            "mainClass": "Players.Player",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "Printer",
+            "request": "launch",
+            "mainClass": "Printers.Printer",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "SongLyrics",
+            "request": "launch",
+            "mainClass": "SongLyrics",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Vehicles.Car",
+            "projectName": "Java-Practice_1728cde4"
+        }
+    ]
+}

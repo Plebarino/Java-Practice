@@ -1,4 +1,4 @@
-package Cat;
+package Animals;
 public class Cat
 {
     public void meow()

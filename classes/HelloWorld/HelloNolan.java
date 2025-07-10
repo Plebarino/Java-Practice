@@ -1,5 +1,5 @@
 package HelloWorld;
-public class HelloWorld
+public class HelloNolan
 {
     public static void main (String[] args)
     {
