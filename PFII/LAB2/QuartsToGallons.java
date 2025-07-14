@@ -9,7 +9,6 @@ public class QuartsToGallons
     int gallons = quartsNeeded / 4;
     int quarts = quartsNeeded % 4;
 
-    System.out.println("Gallons: " + gallons);
-    System.out.println("Quarts: " + quarts);
+    System.out.println("A job that needs 18 quarts requires " + gallons + " gallons plus " + quarts + " quarts.");
     }
 }
