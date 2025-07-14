@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuartsToGallons",
+            "request": "launch",
+            "mainClass": "PFII.LAB2.QuartsToGallons",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "QuartsToGallonsInteractive",
+            "request": "launch",
+            "mainClass": "PFII.LAB2.QuartsToGallonsInteractive",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "QuartsToGallon",
+            "request": "launch",
+            "mainClass": "PFII.LAB2.QuartsToGallon",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
             "name": "SongLyrics",
             "request": "launch",
             "mainClass": "PFII.SongLyrics",
