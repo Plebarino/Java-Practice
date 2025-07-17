@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JobPricing",
+            "request": "launch",
+            "mainClass": "PFII.LAB3.JobPricing",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
             "name": "QuartsToGallons",
             "request": "launch",
             "mainClass": "PFII.LAB2.QuartsToGallons",
