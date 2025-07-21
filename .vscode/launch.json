@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestPatient",
+            "request": "launch",
+            "mainClass": "PFII.LAB4.TestPatient",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "TestBloodData",
+            "request": "launch",
+            "mainClass": "PFII.LAB4.TestBloodData",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
+            "name": "BloodData",
+            "request": "launch",
+            "mainClass": "PFII.LAB4.BloodData",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
             "name": "JobPricing",
             "request": "launch",
             "mainClass": "PFII.LAB3.JobPricing",
