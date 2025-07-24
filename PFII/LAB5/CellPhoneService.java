@@ -24,17 +24,17 @@ public class CellPhoneService
             
 
             
-            if (talk < 500 && text == 0 && data == 0) // talk less than 500 & text less than or equal to 0 & data less than or equal to 0
+            if (talk < 500 && text == 0 && data == 0) // talk less than 500 & text and data equal to 0
                 {
                     System.out.println("The customer should buy plan A at $49 per month.");
                 }
             else    
-                if (talk < 500 && text > 0 && data == 0)  // talk less than 500 & text greater than 0 & data less than or equal to 0
+                if (talk < 500 && text > 0 && data == 0)  // talk less than 500 & text greater than 0 & data equals to 0
                     {
                         System.out.println("The customer should buy plan B at $55 per month.");                    
                     }
             else    
-                if (talk >= 500 && text > 0 && data == 0)  // talk greater than or equal to 500 & text greater than 0 & data less than or equal to 0
+                if (talk >= 500 && text > 0 && data == 0)  // talk greater than or equal to 500 & text greater than 0 & data equal to 0
                     {
                         if (text < 100) // text less than 100
                         {
@@ -47,12 +47,12 @@ public class CellPhoneService
                             }
                     }
             else
-                if (data > 0 && data < 3) // data less than 3 gigabytes
+                if (data > 0 && data < 3) // data greater than 0 & less than 3
                     {
                         System.out.println("The customer should buy plan E at $79 per month.");
                     }
             else
-                if (data >= 3) // data greater than or equal to 3 gigabytes
+                if (data >= 3) // data greater than or equal to 3
                     {
                         System.out.println("The customer should buy plan F at $87 per month.");
                     }
