@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CellPhoneService",
+            "request": "launch",
+            "mainClass": "PFII.LAB5.CellPhoneService",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
             "name": "TestPatient",
             "request": "launch",
             "mainClass": "PFII.LAB4.TestPatient",
