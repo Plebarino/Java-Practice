@@ -7,6 +7,21 @@ public class Factorials
     {
         Scanner input = new Scanner(System.in);
        
-        input.close(); // good practice to close the scanner
+        System.out.print("GET A FACTORIAL OF >> ");
+        int num = input.nextInt();
+
+
+        for (int i = 1; i <= num; i++)
+        {
+            int factorial = 1;
+
+            for (int j = 2; j <= i; j++)
+            {
+                factorial *= j;
+            }
+
+            System.out.println("The factorial of " + i + " is " + factorial);
+        }
+            input.close();
     }
 }
