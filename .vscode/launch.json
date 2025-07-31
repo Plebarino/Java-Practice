@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BabyNameComparison",
+            "request": "launch",
+            "mainClass": "PFII.LAB7.BabyNameComparison",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
             "name": "Factorials",
             "request": "launch",
             "mainClass": "PFII.LAB6.Factorials",
