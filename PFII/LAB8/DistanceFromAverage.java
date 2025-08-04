@@ -44,7 +44,6 @@ public class DistanceFromAverage
     public static void avrg(double[] values, int index)
     {
         double sum = 0.0;
-        // for (double num : values)
         for (int i =0; i < index; i++)
         {
             sum += values[i];
