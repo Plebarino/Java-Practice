@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DemoHorses",
+            "request": "launch",
+            "mainClass": "PFII.LAB9.DemoHorses",
+            "projectName": "Java-Practice_1728cde4"
+        },
+        {
+            "type": "java",
             "name": "DistanceFromAverage",
             "request": "launch",
             "mainClass": "PFII.LAB8.DistanceFromAverage",
